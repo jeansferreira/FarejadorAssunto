@@ -36,7 +36,7 @@ public class DownloadArq {
 			System.out.println("href " + href);
 
 			
-			String FilePath = "C:\\Users\\jeans\\eclipse\\jee-neon\\workspace\\BaixarArquivos\\baixados\\";
+			String FilePath = "C:\\Users\\jeans\\git\\FarejadorAssunto\\baixados\\";
 			
 			if (href.contains(".zip")) {
 				URL url;
